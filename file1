@@ -1,1 +1,4 @@
-hello
+#!/bin/bash
+a=1
+b=10
+sum=` expr $a + $b `
